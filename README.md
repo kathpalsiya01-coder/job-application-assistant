@@ -15,7 +15,7 @@ markdown# 🎯 Multi-Step Job Application Assistant
 
 <table>
   <tr>
-    <td><img src="demo(a).png" alt="App Interface"/></td>
+    <td><img src="demo(1).png" alt="App Interface"/></td>
     <td><img src="demo(b).png" alt="Results"/></td>
   </tr>
   <tr>
